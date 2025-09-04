@@ -1,8 +1,8 @@
 # Student Registration System
 
 ## Student Info
-- *Name:*paul ushie
-- *Matric Number:* 23\CSC\251
+- *Name:*Obongha Sunday Ubangha 
+- *Matric Number:* 23\CSC\293
 - *Course Code:* CSC 282 
 
 ## Assignment Title
@@ -49,3 +49,4 @@ This project is a simple PHP and MySQL web application for registering students.
 4. Register students using the form.
 5. View registered students via the "View Registered Students" link.
 6. Use the delete button to remove a record if needed.
+
